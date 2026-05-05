@@ -78,7 +78,4 @@ Insert Plot 3 here
 
 ---
 
-## How to Run the Project
 
-```bash
-pip install pandas plotly statsmodels
