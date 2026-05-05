@@ -34,7 +34,6 @@ The dataset (`final_data`) contains historical Olympic basketball data, includin
 - Shows the number of NBA players in teams winning Gold, Silver, and Bronze medals  
 - Includes annotations (e.g., USA absence in 1980)  
 
-Insert Plot 1 here
 
 ---
 
@@ -46,7 +45,6 @@ Insert Plot 1 here
   - Non-medal teams  
 - Helps identify differences in team composition  
 
-Insert Plot 2 here
 
 ---
 
@@ -57,8 +55,6 @@ Insert Plot 2 here
 - Visualized:
   - Predicted trends  
   - Differences between first and last Olympic years  
-
-Insert Plot 3 here
 
 ---
 
